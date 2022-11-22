@@ -1,0 +1,8 @@
+{
+    "name":"deir/mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
